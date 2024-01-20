@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "exponential-backoff": "^3.1.1",
+    "limiter": "^2.1.0"
+  }
+}
